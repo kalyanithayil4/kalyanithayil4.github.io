@@ -8,7 +8,7 @@ layout: default
     Kalyani's Portfolio
   </h1>
   <p style="font-family: 'Montserrat', sans-serif; font-size: 1.25rem; color: #ccc;">
-    Urban edge. Refined style.
+    my journal for coding projects and cybersecurity experiments
   </p>
 </div>
 
