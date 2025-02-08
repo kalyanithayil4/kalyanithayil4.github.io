@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="portfolio1.jpg" alt="City Skyline at Night" style="max-width: 100%; border-radius: 8px;">
+  <img src="portolio1.jpg" alt="City Skyline at Night" style="max-width: 100%; border-radius: 8px;">
   <h1 style="font-family: 'Merriweather', serif; font-size: 3rem; color: #f0f0f0; margin-top: 1rem;">
     Kalyani's Portfolio
   </h1>
