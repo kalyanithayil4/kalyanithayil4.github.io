@@ -2,13 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="https://your-image-url.com/hero-city-night.jpg" alt="City Skyline at Night" style="max-width: 100%; border-radius: 8px;">
+  <h1 style="font-family: 'Merriweather', serif; font-size: 3rem; color: #f0f0f0; margin-top: 1rem;">
+    Kalyani's Portfolio
+  </h1>
+  <p style="font-family: 'Montserrat', sans-serif; font-size: 1.25rem; color: #ccc;">
+    Urban edge. Refined style.
+  </p>
+</div>
 
 # Header 1
 
